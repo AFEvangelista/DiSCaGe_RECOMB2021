@@ -1,0 +1,13 @@
+scriptsJob
+analysis/DiSCaGe_analysis.ipynb
+analysis/results_for_comparisons
+input/BRCA
+input/COADREAD
+input/GBM
+input/LUAD
+input/PRAD
+input/STAD
+input/networks/eHINT.txt
+input/networks/eHPRD.txt
+input/networks/eHuRI.txt
+input/networks/eReactome.txt
