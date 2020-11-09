@@ -1,6 +1,7 @@
 scriptsJob
 analysis/DiSCaGe_analysis.ipynb
 analysis/results_for_comparisons
+analysis/.ipynb_checkpoints
 input/BRCA
 input/COADREAD
 input/GBM
@@ -11,3 +12,4 @@ input/networks/eHINT.txt
 input/networks/eHPRD.txt
 input/networks/eHuRI.txt
 input/networks/eReactome.txt
+__pycache__
