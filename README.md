@@ -33,6 +33,7 @@ A input file must be filled with data and the weights for each Variant_Classific
     
     python DiSCaGe.py EXAMPLE_SNV_InDel_input_parameters.in
 
+A set of output files is generated. The final list of prioritized genes are found in file **OUTPUT.score.mutatedGenes**
 
   
 ## Contact
